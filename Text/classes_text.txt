@@ -1,0 +1,5 @@
+# 0x02bf LordName
+Lord[X]
+
+# 0x02c1 CavalierName
+Cavalier[X]
