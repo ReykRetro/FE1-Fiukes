@@ -62,6 +62,13 @@ DarkDruidstand:
 ALIGN 4
 DarkDruidwalk:
 #incbin "dmp/DarkDruidwalk.dmp"
+
+ALIGN 4
+FireStand:
+#incbin "dmp/FireStand.dmp"
+ALIGN 4
+ShineStand:
+#incbin "dmp/ShineStand.dmp"
 //Copy from here 
 PUSH 
 
@@ -75,6 +82,8 @@ SetSMS(0x6e, 0, DruidFstand)
 SetSMS(0x6f, 1, SummonerFstand)
 SetSMS(0x35, 1, Berserkerstand)
 SetSMS(0x40, 1, DarkDruidstand)
+SetSMS(0x67, 0, FireStand)
+SetSMS(0x68, 0, ShineStand)
 
 
 //Walking MS

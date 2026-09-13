@@ -136,27 +136,46 @@ UNIT 0x3b 0x3c 0x1 0xA1 [15,20] 0b 0x0 0x0 0x0 [0x3B,0x3A,0x4D,0x00] [0x0,0x00,0
 UNIT
 
 EnemyUnits:
-UNIT Morva_Ch20 0x3B 0x40 0xA5    [15,02] 0b 0x0 0x0 0x0 [WretchedAir,0x00,0x00,0x00] AttackInRangeAI
-UNIT ONeill Fighter 0x40 0xA5     [08,19] 0b 0x0 0x0 0x0 [SteelAxe, HandAxe] AttackInRangeAI
-UNIT Breguet Knight 0x40 0xA5     [05,18] 0 0 0 0 [SteelLance, Javelin] AttackInRangeAI
-UNIT Bone Brigand 0x40 0xA5       [11,17] 0 0 0 0 [SteelAxe, HandAxe] AttackInRangeAI
-UNIT Bazba Brigand 0x40 0xA5      [16,18] 0 0 0 0 [SteelAxe, HandAxe] AttackInRangeAI
-UNIT Saar Knight 0x40 0xA5        [08,15] 0 0 0 0 [SteelLance, Javelin] AttackInRangeAI
-UNIT Novala Shaman 0x40 0xA5      [12,13] 0 0 0 0 [Nosferatu] AttackInRangeAI
-UNIT Murray Cavalier 0x40 0xA5    [03,13] 0 0 0 0 [SteelSword, Javelin] AttackInRangeAI
-UNIT Tirado General 0x40 0xA5     [16,09] 0 0 0 0 [SilverLance, Javelin] AttackInRangeAI
-UNIT Binks Warrior 0x40 0xA5      [01,10] 0 0 0 0 [SteelAxe, SteelBow] AttackInRangeAI
-UNIT Pablo Sage 0x40 0xA5         [05,11] 0 0 0 0 [Elfire, Purge] AttackInRangeAI
+UNIT 0x40 0x4e 0x40 0xA5    [00,0] 0 0 0 0 [IronLance] AttackInRangeAI
+UNIT 0x41 0x4e 0x40 0xA5    [01,0] 0 0 0 0 [IronLance] AttackInRangeAI
+UNIT 0x42 0x25 0x40 0xA5    [02,0] 0 0 0 0 [SteelLance, Javelin] AttackInRangeAI
+UNIT 0x43 0x07 0x40 0xA5    [03,0] 0 0 0 0 [SteelAxe, HandAxe] AttackInRangeAI
+UNIT 0x44 0x42 0x40 0xA5    [04,0] 0 0 0 0 [SteelAxe, HandAxe] AttackInRangeAI
+UNIT 0x45 0x42 0x40 0xA5    [05,0] 0 0 0 0 [SteelLance, Javelin] AttackInRangeAI
+UNIT 0x46 0x3f 0x40 0xA5    [06,0] 0 0 0 0 [Nosferatu] AttackInRangeAI
+UNIT 0x47 0x05 0x40 0xA5    [07,0] 0 0 0 0 [SteelSword, Javelin] AttackInRangeAI
+UNIT 0x48 0x09 0x40 0xA5    [08,0] 0 0 0 0 [SilverLance, Javelin] AttackInRangeAI
+UNIT 0x49 0x0b 0x40 0xA5    [00,1] 0 0 0 0 [SteelAxe, SteelBow] AttackInRangeAI
+UNIT 0x4a 0x42 0x40 0xA5    [01,1] 0 0 0 0 [Elfire, Purge] AttackInRangeAI
+UNIT 0x4b 0x0b 0x40 0xA5    [02,1] 0 0 0 0 [Elfire, Purge] AttackInRangeAI
+UNIT 0x4c 0x09 0x40 0xA5    [03,1] 0 0 0 0 [Elfire, Purge] AttackInRangeAI
+UNIT 0x4d 0x3c 0x40 0xA5    [04,1] 0 0 0 0 [Elfire, Purge] AttackInRangeAI
+UNIT 0x4e 0x0b 0x40 0xA5    [05,1] 0 0 0 0 [Elfire, Purge] AttackInRangeAI
+UNIT 0x4f 0x3c 0x40 0xA5    [06,1] 0 0 0 0 [Elfire, Purge] AttackInRangeAI
+UNIT 0x50 0x2b 0x40 0xA5    [07,1] 0 0 0 0 [Elfire, Purge] AttackInRangeAI
+UNIT 0x51 0x07 0x40 0xA5    [08,1] 0 0 0 0 [Elfire, Purge] AttackInRangeAI
 UNIT
 
 EnemyUnits2:
-UNIT Vigarde General 0x40 0xA5    [10,2] 0 0 0 0 [Spear, SilverBlade, Tomahawk] NeverMoveAI
-UNIT Cyclops_boss Cyclops 0x40 0xA5       [9,4] 0 0 0 0 [BattleAxe, Tomahawk] AttackInRangeAI
-UNIT Cyclops_boss Cyclops 0x40 0xA5       [11,4] 0 0 0 0 [BattleAxe, Tomahawk] AttackInRangeAI
-UNIT Aias GreatKnight 0x40 0xA5   [7,11] 0 0 0 0 [ShortSpear, SilverBlade, SilverAxe] AttackInRangeAI
-UNIT Carlyle Swordmaster 0x40 0xA5 [10,9] 0 0 0 0 [WindSword] AttackInRangeAI
-UNIT Gheb Warrior 0x40 0xA5       [2,4] 0 0 0 0 [KillerAxe, KillerBow] NeverMoveAI
-UNIT Beran Ranger 0x40 0xA5       [17,14] 0 0 0 0 [Lancereaver, KillerBow, Longbow] AttackInRangeAI
+UNIT 0x52 0x07 0x40 0xA5    [00,3] 0 0 0 0 [Elfire, Purge] AttackInRangeAI
+UNIT 0x53 0x67 0x40 0xA5    [01,3] 0 0 0 0 [Elfire, Purge] AttackInRangeAI
+UNIT 0x54 0x0b 0x40 0xA5    [02,3] 0 0 0 0 [BattleAxe, Tomahawk] AttackInRangeAI
+UNIT 0x55 0x4f 0x40 0xA5    [03,3] 0 0 0 0 [BattleAxe, Tomahawk] AttackInRangeAI
+UNIT 0x56 0x0b 0x40 0xA5    [04,3] 0 0 0 0 [BattleAxe, Tomahawk] AttackInRangeAI
+UNIT 0x57 0x3c 0x40 0xA5    [05,3] 0 0 0 0 [ShortSpear, SilverBlade, SilverAxe] AttackInRangeAI
+UNIT 0x58 0x0b 0x40 0xA5    [06,3] 0 0 0 0 [WindSword] AttackInRangeAI
+UNIT 0x59 0x07 0x40 0xA5    [07,3] 0 0 0 0 [KillerAxe, KillerBow] NeverMoveAI
+UNIT 0x5a 0x3c 0x40 0xA5    [08,3] 0 0 0 0 [Lancereaver, KillerBow, Longbow] AttackInRangeAI
+UNIT 0x5b 0x07 0x40 0xA5    [00,4] 0 0 0 0 [Lancereaver, KillerBow, Longbow] AttackInRangeAI
+UNIT 0x5c 0x0b 0x40 0xA5    [01,4] 0 0 0 0 [Lancereaver, KillerBow, Longbow] AttackInRangeAI
+UNIT 0x5d 0x07 0x40 0xA5    [02,4] 0 0 0 0 [Lancereaver, KillerBow, Longbow] AttackInRangeAI
+UNIT 0x5e 0x21 0x40 0xA5    [03,4] 0 0 0 0 [Lancereaver, KillerBow, Longbow] AttackInRangeAI
+UNIT 0x5f 0x3c 0x40 0xA5    [04,4] 0 0 0 0 [Lancereaver, KillerBow, Longbow] AttackInRangeAI
+UNIT 0x60 0x3c 0x40 0xA5    [05,4] 0 0 0 0 [Lancereaver, KillerBow, Longbow] AttackInRangeAI
+UNIT 0x61 0x05 0x40 0xA5    [06,4] 0 0 0 0 [Lancereaver, KillerBow, Longbow] AttackInRangeAI
+UNIT 0x62 0x2b 0x40 0xA5    [07,4] 0 0 0 0 [Lancereaver, KillerBow, Longbow] AttackInRangeAI
+UNIT 0x63 0x2b 0x40 0xA5    [08,4] 0 0 0 0 [Lancereaver, KillerBow, Longbow] AttackInRangeAI
+UNIT 0x64 0x3c 0x40 0xA5    [01,5] 0 0 0 0 [Lancereaver, KillerBow, Longbow] AttackInRangeAI
 UNIT
 
 Traps1:
