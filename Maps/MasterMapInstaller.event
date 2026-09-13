@@ -1,1 +1,47 @@
-#include "SFRound35.event"
+//#include "SFRound35.event"
+
+#include "PrologueI.event"
+#include "PrologueII.event"
+#include "PrologueIII.event"
+#include "PrologueIV.event"
+
+#include "chapter01.event"
+#include "chapter02.event"
+#include "chapter03.event"
+#include "chapter04.event"
+#include "chapter05.event"
+#include "chapter06.event"
+
+#include "chapter06x.event"
+
+#include "chapter07.event"
+#include "chapter08.event"
+#include "chapter09.event"
+#include "chapter10.event"
+#include "chapter11.event"
+#include "chapter12.event"
+
+#include "chapter12x.event"
+
+#include "chapter13.event"
+#include "chapter14.event"
+#include "chapter15.event"
+#include "chapter16.event"
+#include "chapter17.event"
+
+#include "chapter17x.event"
+
+#include "chapter18.event"
+#include "chapter19.event"
+#include "chapter20.event"
+
+#include "chapter20x.event"
+
+//#include "chapter21.event"
+//#include "chapter22.event"
+//#include "chapter23.event"
+//#include "chapter24.event"
+
+//#include "chapter24x.event"
+
+//#include "chapter25.event"
