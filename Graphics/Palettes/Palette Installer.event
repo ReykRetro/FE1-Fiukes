@@ -3,21 +3,232 @@
 
 ALIGN 4
 
-BartreT11:
-	#incbin "./_palettes/BartreT11.lzpal" 
+Marth1:
+	#incbin "./_palettes/Marth1.lzpal" 
 
-BartreT21:
-	#incbin "./_palettes/BartreT21.lzpal" 
+Marth2:
+	#incbin "./_palettes/Marth2.lzpal" 
 
-BartreT22:
-	#incbin "./_palettes/BartreT22.lzpal" 
+Abel1:
+	#incbin "./_palettes/Abel1.lzpal" 
 
-CanasT11:
-	#incbin "./_palettes/CanasT11.lzpal" 
+Abel2:
+	#incbin "./_palettes/Abel2.lzpal" 
 
-CanasT21:
-	#incbin "./_palettes/CanasT21.lzpal" 
+Frey1:
+	#incbin "./_palettes/Frey1.lzpal" 
 
-CanasT22:
-	#incbin "./_palettes/CanasT22.lzpal" 
+Frey2:
+	#incbin "./_palettes/Frey2.lzpal" 
+
+Jagen:
+	#incbin "./_palettes/Jagen.lzpal" 
+
+Cain1:
+	#incbin "./_palettes/Cain1.lzpal" 
+
+Cain2:
+	#incbin "./_palettes/Cain2.lzpal" 
+
+Gordin1:
+	#incbin "./_palettes/Gordin1.lzpal" 
+
+Gordin2:
+	#incbin "./_palettes/Gordin2.lzpal" 
+
+Draug1:
+	#incbin "./_palettes/Draug1.lzpal" 
+
+Draug2:
+	#incbin "./_palettes/Draug2.lzpal" 
+
+Norne1:
+	#incbin "./_palettes/Norne1.lzpal" 
+
+Norne2:
+	#incbin "./_palettes/Norne2.lzpal" 
+
+Caeda1:
+	#incbin "./_palettes/Caeda1.lzpal" 
+
+Caeda2:
+	#incbin "./_palettes/Caeda2.lzpal" 
+
+Wrys1:
+	#incbin "./_palettes/Wrys1.lzpal" 
+
+Wrys2:
+	#incbin "./_palettes/Wrys2.lzpal" 
+
+Ogma1:
+	#incbin "./_palettes/Ogma1.lzpal" 
+
+Ogma2:
+	#incbin "./_palettes/Ogma2.lzpal" 
+
+Barst1:
+	#incbin "./_palettes/Barst1.lzpal" 
+
+Barst2:
+	#incbin "./_palettes/Barst2.lzpal" 
+
+Bord1:
+	#incbin "./_palettes/Bord1.lzpal" 
+
+Bord2:
+	#incbin "./_palettes/Bord2.lzpal" 
+
+Cord1:
+	#incbin "./_palettes/Cord1.lzpal" 
+
+Cord2:
+	#incbin "./_palettes/Cord2.lzpal" 
+
+Darros1:
+	#incbin "./_palettes/Darros1.lzpal" 
+
+Darros2:
+	#incbin "./_palettes/Darros2.lzpal" 
+
+Castor1:
+	#incbin "./_palettes/Castor1.lzpal" 
+
+Castor2:
+	#incbin "./_palettes/Castor2.lzpal" 
+
+Julian1:
+	#incbin "./_palettes/Julian1.lzpal" 
+
+Julian2:
+	#incbin "./_palettes/Julian2.lzpal" 
+
+Lena1:
+	#incbin "./_palettes/Lena1.lzpal" 
+
+Lena2:
+	#incbin "./_palettes/Lena2.lzpal" 
+
+Navarre1:
+	#incbin "./_palettes/Navarre1.lzpal" 
+
+Navarre2:
+	#incbin "./_palettes/Navarre2.lzpal" 
+
+Merric1:
+	#incbin "./_palettes/Merric1.lzpal" 
+
+Merric2:
+	#incbin "./_palettes/Merric2.lzpal" 
+
+Matthis1:
+	#incbin "./_palettes/Matthis1.lzpal" 
+
+Matthis2:
+	#incbin "./_palettes/Matthis2.lzpal" 
+
+Wolf:
+	#incbin "./_palettes/Wolf.lzpal" 
+
+Sedgar:
+	#incbin "./_palettes/Sedgar.lzpal" 
+
+Roshea1:
+
+Roshea:
+
+Vyland1:
+
+Vyland2:
+
+Hardin1:
+
+Hardin2:
+
+Wendell:
+
+Rickard1:
+
+Rickard2:
+
+Athena1:
+
+Athena2:
+
+Caesar1:
+
+Caesar2:
+
+Radd1:
+
+Radd2:
+
+Roger1:
+
+Roger2:
+
+Jeorge:
+
+Maria1:
+
+Maria2:
+
+Minerva1:
+
+Minerva2:
+
+Linde1:
+
+Linde2:
+
+Jake:
+
+Dolph1:
+
+Dolph2:
+
+Macellan1:
+
+Macellan2:
+
+Tomas1:
+
+Tomas2:
+
+Boah:
+
+Midia:
+
+Horace:
+
+Beck:
+
+Astram:
+
+Catria1:
+
+Catria2:
+
+Palla1:
+
+Palla2:
+
+Arran:
+
+Samson:
+
+Etzel:
+
+Est1:
+
+Est2:
+
+Lorenz:
+
+Ymir:
+
+Elice1:
+
+Elice2:
+
+Gotoh:
 

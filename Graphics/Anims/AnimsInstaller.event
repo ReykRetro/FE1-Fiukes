@@ -3,8 +3,8 @@
 #include "Lord1/1. Sword/Sword Installer.event" //01
 #include "Lord1/8. Unarmed/Unarmed Installer.event" //02
 
-//#include "Lord2/1. Sword/Sword Installer.event" //03
-//#include "Lord2/8. Unarmed/Unarmed Installer.event" //04
+#include "Lord2/1. Sword/Sword Installer.event" //03
+#include "Lord2/8. Unarmed/Unarmed Installer.event" //04
 
 #include "CavalierM/1. Sword/Sword Installer.event" //05
 #include "CavalierM/2. Lance/Lance Installer.event" //06
