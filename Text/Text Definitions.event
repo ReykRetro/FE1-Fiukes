@@ -819,5 +819,9 @@
 #define SableDesc $FD1
 #define SoothsireName $FD2
 #define SoothsireDesc $FD3
+#define DarkMageName $2E1
+#define SorcererNaame $2E2
+#define DarkBishopName $2EF
+#define DarkBishopDesc $33B
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT

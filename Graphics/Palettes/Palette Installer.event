@@ -133,102 +133,212 @@ Sedgar:
 	#incbin "./_palettes/Sedgar.lzpal" 
 
 Roshea1:
+	#incbin "./_palettes/Roshea1.lzpal" 
 
-Roshea:
+Roshea2:
+	#incbin "./_palettes/Roshea2.lzpal" 
 
 Vyland1:
+	#incbin "./_palettes/Vyland1.lzpal" 
 
 Vyland2:
+	#incbin "./_palettes/Vyland2.lzpal" 
 
 Hardin1:
+	#incbin "./_palettes/Hardin1.lzpal" 
 
 Hardin2:
+	#incbin "./_palettes/Hardin2.lzpal" 
 
 Wendell:
+	#incbin "./_palettes/Wendell.lzpal" 
 
 Rickard1:
+	#incbin "./_palettes/Rickard1.lzpal" 
 
 Rickard2:
+	#incbin "./_palettes/Rickard2.lzpal" 
 
 Athena1:
+	#incbin "./_palettes/Athena1.lzpal" 
 
 Athena2:
+	#incbin "./_palettes/Athena2.lzpal" 
 
 Caesar1:
+	#incbin "./_palettes/Caesar1.lzpal" 
 
 Caesar2:
+	#incbin "./_palettes/Caesar2.lzpal" 
 
 Radd1:
+	#incbin "./_palettes/Radd1.lzpal" 
 
 Radd2:
+	#incbin "./_palettes/Radd2.lzpal" 
 
 Roger1:
+	#incbin "./_palettes/Roger1.lzpal" 
 
 Roger2:
+	#incbin "./_palettes/Roger2.lzpal" 
 
 Jeorge:
+	#incbin "./_palettes/Jeorge.lzpal" 
 
 Maria1:
+	#incbin "./_palettes/Maria1.lzpal" 
 
 Maria2:
+	#incbin "./_palettes/Maria2.lzpal" 
 
 Minerva1:
+	#incbin "./_palettes/Minerva1.lzpal" 
 
 Minerva2:
+	#incbin "./_palettes/Minerva2.lzpal" 
 
 Linde1:
+	#incbin "./_palettes/Linde1.lzpal" 
 
 Linde2:
-
-Jake:
+	#incbin "./_palettes/Linde2.lzpal" 
 
 Dolph1:
+	#incbin "./_palettes/Dolph1.lzpal" 
 
 Dolph2:
+	#incbin "./_palettes/Dolph2.lzpal" 
 
 Macellan1:
+	#incbin "./_palettes/Macellan1.lzpal" 
 
 Macellan2:
+	#incbin "./_palettes/Macellan2.lzpal" 
 
 Tomas1:
+	#incbin "./_palettes/Tomas1.lzpal" 
 
 Tomas2:
+	#incbin "./_palettes/Tomas2.lzpal" 
 
 Boah:
+	#incbin "./_palettes/Boah.lzpal" 
 
 Midia:
+	#incbin "./_palettes/Midia.lzpal" 
 
 Horace:
-
-Beck:
+	#incbin "./_palettes/Horace.lzpal" 
 
 Astram:
+	#incbin "./_palettes/Astram.lzpal" 
 
 Catria1:
+	#incbin "./_palettes/Catria1.lzpal" 
 
 Catria2:
+	#incbin "./_palettes/Catria2.lzpal" 
 
 Palla1:
+	#incbin "./_palettes/Palla1.lzpal" 
 
 Palla2:
+	#incbin "./_palettes/Palla2.lzpal" 
 
 Arran:
+	#incbin "./_palettes/Arran.lzpal" 
 
 Samson:
+	#incbin "./_palettes/Samson.lzpal" 
 
 Etzel:
+	#incbin "./_palettes/Etzel.lzpal" 
 
 Est1:
+	#incbin "./_palettes/Est1.lzpal" 
 
 Est2:
+	#incbin "./_palettes/Est2.lzpal" 
 
 Lorenz:
+	#incbin "./_palettes/Lorenz.lzpal" 
 
 Ymir:
+	#incbin "./_palettes/Ymir.lzpal" 
 
 Elice1:
+	#incbin "./_palettes/Elice1.lzpal" 
 
 Elice2:
+	#incbin "./_palettes/Elice2.lzpal" 
 
 Gotoh:
+	#incbin "./_palettes/Gotoh.lzpal" 
+
+Captain:
+	#incbin "./_palettes/Captain.lzpal" 
+
+Gazzak:
+	#incbin "./_palettes/Gazzak.lzpal" 
+
+Gomer:
+	#incbin "./_palettes/Gomer.lzpal" 
+
+Hyman:
+	#incbin "./_palettes/Hyman.lzpal" 
+
+Merach:
+	#incbin "./_palettes/Merach.lzpal" 
+
+Emereus:
+	#incbin "./_palettes/Emereus.lzpal" 
+
+Bathys:
+	#incbin "./_palettes/Bathys.lzpal" 
+
+Harmein:
+	#incbin "./_palettes/Harmein.lzpal" 
+
+Kannival:
+	#incbin "./_palettes/Kannival.lzpal" 
+
+Zharov:
+	#incbin "./_palettes/Zharov.lzpal" 
+
+Volzhin:
+	#incbin "./_palettes/Volzhin.lzpal" 
+
+Heimler:
+	#incbin "./_palettes/Heimler.lzpal" 
+
+Dejanira:
+	#incbin "./_palettes/Dejanira.lzpal" 
+
+Jiol:
+	#incbin "./_palettes/Jiol.lzpal" 
+
+Gharnef:
+	#incbin "./_palettes/Gharnef.lzpal" 
+
+Hollstadt:
+	#incbin "./_palettes/Hollstadt.lzpal" 
+
+Dactyl:
+	#incbin "./_palettes/Dactyl.lzpal" 
+
+Sternlin:
+	#incbin "./_palettes/Sternlin.lzpal" 
+
+Camus:
+	#incbin "./_palettes/Camus.lzpal" 
+
+Larissa:
+	#incbin "./_palettes/Larissa.lzpal" 
+
+Orridyon:
+	#incbin "./_palettes/Orridyon.lzpal" 
+
+Michalis:
+	#incbin "./_palettes/Michalis.lzpal" 
 

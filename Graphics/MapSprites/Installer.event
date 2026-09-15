@@ -50,11 +50,18 @@ SummonerFwalk:
 #incbin "dmp/SummonerFwalk.dmp"
 
 ALIGN 4
-Berserkerstand:
-#incbin "dmp/Berserkerstand.dmp"
+ManaketeStand:
+#incbin "dmp/ManaketeStand.dmp"
 ALIGN 4
-Berserkerwalk:
-#incbin "dmp/Berserkerwalk.dmp"
+ManaketeWalk:
+#incbin "dmp/ManaketeWalk.dmp"
+
+ALIGN 4
+BerserkerStand:
+#incbin "dmp/BerserkerStand.dmp"
+ALIGN 4
+BerserkerWalk:
+#incbin "dmp/BerserkerWalk.dmp"
 
 ALIGN 4
 DarkDruidstand:
@@ -80,7 +87,8 @@ SetSMS(0x6c, 1, PaladinFstand)
 SetSMS(0x6d, 0, ShamanFstand)
 SetSMS(0x6e, 0, DruidFstand)
 SetSMS(0x6f, 1, SummonerFstand)
-SetSMS(0x35, 1, Berserkerstand)
+SetSMS(0x30, 0, ManaketeStand)
+SetSMS(0x35, 1, BerserkerStand)
 SetSMS(0x40, 1, DarkDruidstand)
 SetSMS(0x67, 0, FireStand)
 SetSMS(0x68, 0, ShineStand)
@@ -94,7 +102,8 @@ SetMMS(0x07, PaladinFwalk, NormalAP)
 SetMMS(0x2d, ShamanFwalk, NormalAP)
 SetMMS(0x2f, DruidFwalk, NormalAP)
 SetMMS(0x31, SummonerFwalk, NormalAP)
-SetMMS(0x42, Berserkerwalk, NormalAP)
+SetMMS(0x3b, ManaketeWalk, NormalAP)
+SetMMS(0x42, BerserkerWalk, NormalAP)
 SetMMS(0x4e, DarkDruidwalk, NormalAP)
 
 

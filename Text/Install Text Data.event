@@ -3277,6 +3277,22 @@ __TEXTPROCESSFD3:
 #incext ParseFile ".TextEntries/text_buildfileSoothsireDesc.fetxt"
 setText($FD3, __TEXTPROCESSFD3)
 
+__TEXTPROCESS2E1:
+#incext ParseFile ".TextEntries/text_buildfileDarkMageName.fetxt"
+setText($2E1, __TEXTPROCESS2E1)
+
+__TEXTPROCESS2E2:
+#incext ParseFile ".TextEntries/text_buildfileSorcererNaame.fetxt"
+setText($2E2, __TEXTPROCESS2E2)
+
+__TEXTPROCESS2EF:
+#incext ParseFile ".TextEntries/text_buildfileDarkBishopName.fetxt"
+setText($2EF, __TEXTPROCESS2EF)
+
+__TEXTPROCESS33B:
+#incext ParseFile ".TextEntries/text_buildfileDarkBishopDesc.fetxt"
+setText($33B, __TEXTPROCESS33B)
+
 }
 
 #endif // TEXT_INSTALLER_TEXT_BUILDFILE_TXT
